@@ -18,3 +18,9 @@ for security. Some features in those scripts include:
 + Pulling lead datasheets from google
 + Connecting to AWS S3 to access files
 + Writing results and backups to AWS S3 buckets
+
+Future improvements:
+
++ Create a module containing re-used functions
++ Eliminate redundancy
++ Hide all paths in keyfiles, load as pickle
