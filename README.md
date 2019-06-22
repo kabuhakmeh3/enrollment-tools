@@ -2,6 +2,8 @@
 
 Contains tools and scripts to manage daily sales and enrollments.
 
+**Note:** All paths must be updated to reflect local environment
+
 Functionality includes
 
 + Comparing daily sales to leadsheets to get attribution numbers
